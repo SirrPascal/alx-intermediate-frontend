@@ -1,0 +1,11 @@
+1. Created a new directory in the alx-intermediate-frontend:
+    mkdir -p alx-intermediate-frontend/0x03-sass_scss
+    cd alx-intermediate-frontend/0x03-sass_scss
+
+2. Install NVM (Node version manager)
+    $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+
+3. Closed and reopened the bash terminal.
+ 
+5. Installed Sass version 3.7.4
+    npm install sass -v 3.7.4
